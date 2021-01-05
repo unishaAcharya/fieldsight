@@ -12,7 +12,7 @@
     "build": "node server"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.8.0",
     "cropperjs": "^1.5.1",
